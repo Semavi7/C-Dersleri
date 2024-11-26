@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders4", "Ders4\Ders4.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders5ÜstAlma", "Ders5ÜstAlma\Ders5ÜstAlma.vcxproj", "{EFBF9CAA-EB73-46D8-B195-A76876E15E60}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders6Yuvarlama", "Ders6Yuvarlama\Ders6Yuvarlama.vcxproj", "{185ED940-1E09-4F46-95E6-67856837F03B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{EFBF9CAA-EB73-46D8-B195-A76876E15E60}.Release|x64.Build.0 = Release|x64
 		{EFBF9CAA-EB73-46D8-B195-A76876E15E60}.Release|x86.ActiveCfg = Release|Win32
 		{EFBF9CAA-EB73-46D8-B195-A76876E15E60}.Release|x86.Build.0 = Release|Win32
+		{185ED940-1E09-4F46-95E6-67856837F03B}.Debug|x64.ActiveCfg = Debug|x64
+		{185ED940-1E09-4F46-95E6-67856837F03B}.Debug|x64.Build.0 = Debug|x64
+		{185ED940-1E09-4F46-95E6-67856837F03B}.Debug|x86.ActiveCfg = Debug|Win32
+		{185ED940-1E09-4F46-95E6-67856837F03B}.Debug|x86.Build.0 = Debug|Win32
+		{185ED940-1E09-4F46-95E6-67856837F03B}.Release|x64.ActiveCfg = Release|x64
+		{185ED940-1E09-4F46-95E6-67856837F03B}.Release|x64.Build.0 = Release|x64
+		{185ED940-1E09-4F46-95E6-67856837F03B}.Release|x86.ActiveCfg = Release|Win32
+		{185ED940-1E09-4F46-95E6-67856837F03B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
