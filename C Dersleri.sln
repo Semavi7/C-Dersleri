@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders8sinvecoshesaplama", "D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders9PutsGets", "Ders9PutsGets\Ders9PutsGets.vcxproj", "{8EBC9C35-8ACE-4E77-B118-8E987D8A31DD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders10Strlen", "Ders10Strlen\Ders10Strlen.vcxproj", "{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{8EBC9C35-8ACE-4E77-B118-8E987D8A31DD}.Release|x64.Build.0 = Release|x64
 		{8EBC9C35-8ACE-4E77-B118-8E987D8A31DD}.Release|x86.ActiveCfg = Release|Win32
 		{8EBC9C35-8ACE-4E77-B118-8E987D8A31DD}.Release|x86.Build.0 = Release|Win32
+		{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}.Debug|x64.ActiveCfg = Debug|x64
+		{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}.Debug|x64.Build.0 = Debug|x64
+		{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}.Debug|x86.Build.0 = Debug|Win32
+		{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}.Release|x64.ActiveCfg = Release|x64
+		{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}.Release|x64.Build.0 = Release|x64
+		{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}.Release|x86.ActiveCfg = Release|Win32
+		{7ABB4EBE-D317-4EEC-A933-655DBE5DCDA5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
