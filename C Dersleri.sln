@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders6Yuvarlama", "Ders6Yuva
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders7MutlakDeğer", "Ders7MutlakDeğer\Ders7MutlakDeğer.vcxproj", "{D71B23F3-17D3-4F62-809F-E5A1F2AA8C72}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders8sinvecoshesaplama", "Ders8sinvecoshesaplama\Ders8sinvecoshesaplama.vcxproj", "{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{D71B23F3-17D3-4F62-809F-E5A1F2AA8C72}.Release|x64.Build.0 = Release|x64
 		{D71B23F3-17D3-4F62-809F-E5A1F2AA8C72}.Release|x86.ActiveCfg = Release|Win32
 		{D71B23F3-17D3-4F62-809F-E5A1F2AA8C72}.Release|x86.Build.0 = Release|Win32
+		{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}.Debug|x64.ActiveCfg = Debug|x64
+		{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}.Debug|x64.Build.0 = Debug|x64
+		{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}.Debug|x86.Build.0 = Debug|Win32
+		{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}.Release|x64.ActiveCfg = Release|x64
+		{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}.Release|x64.Build.0 = Release|x64
+		{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}.Release|x86.ActiveCfg = Release|Win32
+		{1E1D4F36-2BEE-4158-93D8-70D85A9D2276}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
