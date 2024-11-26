@@ -20,6 +20,7 @@ int main() {
 	scanf("%lf", &sayi2);
 	sonuc2 = log(sayi2);
 	printf("Sonuc: %.lf", sonuc2);
+	//log Logaritma ýn hesaplýyor e tabanýnda 10 tabaný için log10 yazýlýr
 
 	return 0;
 }
