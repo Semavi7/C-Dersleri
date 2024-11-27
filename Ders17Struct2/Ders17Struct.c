@@ -20,14 +20,14 @@ int main() {
 	printf("Numara: ");
 	scanf("%d", &ogr.no);
 	printf("Sýnýfý: ");
-	scanf("%d",&ogr.sinif);
+	scanf("%d", &ogr.sinif);
 	printf("Ortalama: ");
 	scanf("%f", &ogr.ort);
 	printf("\n");
 	printf("%s\n", ogr.ad);
 	printf("%d\n", ogr.no);
 	printf("%d\n", ogr.sinif);
-	printf("%.3f", ogr.ort);
+	printf("%.2f", ogr.ort);
 
 
 	return 0;

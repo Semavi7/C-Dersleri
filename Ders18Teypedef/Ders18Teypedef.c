@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-//Typedef: Takma ad gibi dÃ¼ÅŸÃ¼n. DeÄŸiÅŸkenden deÄŸiÅŸken tÃ¼retiyor.
+//Typedef: Takma ad gibi düşün. Değişkenden değişken türetiyor.
 
 typedef int d1;
 

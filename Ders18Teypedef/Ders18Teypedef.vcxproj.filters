@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ders17Struct2.c">
+    <ClCompile Include="Ders18Teypedef.c">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
