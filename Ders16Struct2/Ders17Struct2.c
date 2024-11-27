@@ -27,7 +27,7 @@ int main() {
 	printf("%s\n", ogr.ad);
 	printf("%d\n", ogr.no);
 	printf("%d\n", ogr.sinif);
-	printf("%.2f", ogr.ort);
+	printf("%.3f", ogr.ort);
 
 
 	return 0;
