@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders20Pointer2", "Ders20Poi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders21Pointer3", "Ders21Pointer3\Ders21Pointer3.vcxproj", "{71C6C7A5-CB1C-4482-8668-CEAF9A6E1132}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders22Fonksiyonlar", "Ders22Fonksiyonlar\Ders22Fonksiyonlar.vcxproj", "{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{71C6C7A5-CB1C-4482-8668-CEAF9A6E1132}.Release|x64.Build.0 = Release|x64
 		{71C6C7A5-CB1C-4482-8668-CEAF9A6E1132}.Release|x86.ActiveCfg = Release|Win32
 		{71C6C7A5-CB1C-4482-8668-CEAF9A6E1132}.Release|x86.Build.0 = Release|Win32
+		{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}.Debug|x64.ActiveCfg = Debug|x64
+		{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}.Debug|x64.Build.0 = Debug|x64
+		{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}.Debug|x86.Build.0 = Debug|Win32
+		{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}.Release|x64.ActiveCfg = Release|x64
+		{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}.Release|x64.Build.0 = Release|x64
+		{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}.Release|x86.ActiveCfg = Release|Win32
+		{6BE8D14B-EC03-4B7D-AC90-2B84B99B0297}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
