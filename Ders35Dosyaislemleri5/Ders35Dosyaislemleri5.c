@@ -8,14 +8,14 @@ int main() {
 	setlocale(LC_ALL, "Turkish");
 
 	FILE* belge;
-	char karakter;
+	char karakter[50];
+
 	belge = fopen("C:\\Users\\semav\\OneDrive\\Desktop\\yeni3.txt", "r");
-	do
-	{
-		karakter = getc(belge);
-		printf("%c", karakter);
-	} 
-	while (karakter!=NULL)
+	
+	while (fgets(karakter, 50, belge) != NULL) { //NULL Satýr okurken EOF karakter okurken uygun
+		puts(karakter);
+	}
+	
 	fclose(belge);
 
 
