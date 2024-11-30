@@ -69,6 +69,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders32Dosyaislemleri2", "De
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders33Dosyaislemleri3", "Ders33Dosyaislemleri3\Ders33Dosyaislemleri3.vcxproj", "{4427B141-0DF5-4A71-97E2-0BA12C117E88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ders34Dosyaislemleri4", "Ders34Dosyaislemleri4\Ders34Dosyaislemleri4.vcxproj", "{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -341,6 +343,14 @@ Global
 		{4427B141-0DF5-4A71-97E2-0BA12C117E88}.Release|x64.Build.0 = Release|x64
 		{4427B141-0DF5-4A71-97E2-0BA12C117E88}.Release|x86.ActiveCfg = Release|Win32
 		{4427B141-0DF5-4A71-97E2-0BA12C117E88}.Release|x86.Build.0 = Release|Win32
+		{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}.Debug|x64.ActiveCfg = Debug|x64
+		{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}.Debug|x64.Build.0 = Debug|x64
+		{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}.Debug|x86.Build.0 = Debug|Win32
+		{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}.Release|x64.ActiveCfg = Release|x64
+		{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}.Release|x64.Build.0 = Release|x64
+		{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}.Release|x86.ActiveCfg = Release|Win32
+		{8E540B6A-C0A7-4CFB-89CC-E1A8A98F1B34}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
